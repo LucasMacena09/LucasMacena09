@@ -1,6 +1,6 @@
 ### Oi, sou o Lucas Macena 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMacena09&layout=donut-vertical)](https://github.com/LucasMacena09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=donut)](https://github.com/lucasmacena09/github-readme-stats)
 
 ## Tecnologias que uso no dia a dia:
 <div style="display: inline-block;"><br/>
