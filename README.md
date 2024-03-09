@@ -27,7 +27,7 @@
 
 <br>
 
-## Most used languages and status:
+## Most used languages:
 
   <a href="https://github.com/LucasMacena09">
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact"/>
