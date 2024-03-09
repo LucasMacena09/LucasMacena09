@@ -1,9 +1,13 @@
 ### Oi, sou o Lucas Macena 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmacena09&show_icons=true&theme=transparent)
+<a href="https://github.com/LucasMacena09">
+ <img width=450 src="https://github-readme-stats.vercel.app/api?username=lucasmacena09&show_icons=true"/>
+<a />
 
-## Linguagens mais usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=donut)](https://github.com/lucasmacena09/github-readme-stats)
+## Linguagens mais usadas:]
+<a href="https://github.com/LucasMacena09">
+ <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=donut"/>
+<a />
 
 ## Tecnologias das quais tenho domínio:
 <div style="display: inline-block;"><br/>
