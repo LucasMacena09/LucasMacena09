@@ -1,12 +1,12 @@
 ### Oi, sou o Lucas Macena 👋
 
 <a href="https://github.com/LucasMacena09">
- <img width=450 src="https://github-readme-stats.vercel.app/api?username=lucasmacena09&show_icons=true"/>
+ <img width=400 src="https://github-readme-stats.vercel.app/api?username=lucasmacena09&show_icons=true"/>
 <a />
 
-## Linguagens mais usadas:]
+## Linguagens mais usadas:
 <a href="https://github.com/LucasMacena09">
- <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=donut"/>
+ <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=donut"/>
 <a />
 
 ## Tecnologias das quais tenho domínio:
