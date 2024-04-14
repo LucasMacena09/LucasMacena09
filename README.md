@@ -1,40 +1,21 @@
-<h1 align="center">Hi!</h1>
+<h1>Hello, I'm Lucas! 👋</h1>
 
-###
+<p text-align="center">I'm a full-stack developer from Brasil</p>
 
-<p align="center">Hello 👋, I'm Lucas! A 15-year-old programming enthusiast from Brazil.<br>
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucasmacenamoreira)
 
-</div>
-<br> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact)
 
-- I'm currently studying programming and software development.<br>
-<br>
+<h2>My skills</h2>
 
-- I'm looking for opportunities to apply my knowledge and grow as a developer. My dream is to work with emerging technologies like Artificial Intelligence and Machine Learning.<br><br></p>
+<h4>Main stack</h4>
 
-<details>
-  <summary>More about me</summary>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://springdoc.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs/)
 
- - 📚 At just 15 years old, I've amassed years of programming experience. I started with simple programs in Python and since then have expanded my knowledge to various technologies, including React, TypeScript, Angular, and others. I'm constantly seeking new challenges to hone my skills and stay updated with the latest tech trends.
+<h4>Databases</h4>
 
-- 🌍 In addition to programming, I have an interest in languages and reading. I spend my free time studying foreign languages and exploring new worlds through literature. These activities complement my passion for technology, helping me develop a broad perspective and an open mind to creatively and efficiently solve problems.
-
-- ✨ I'm always open to new opportunities and challenges that allow me to grow as a developer and as a person. I believe in the power of lifelong learning and am determined to achieve my career goals while continuing to learn and develop.
-</details>
-
-<br>
-
-## Most used languages:
-
-  <a href="https://github.com/LucasMacena09">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact"/>
-  </a>
-
-
-## Technologies I'm proficient in:
-<div style="display: inline-block;"><br/>
-    <img align="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt"go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
