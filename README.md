@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">Hi!</h1>
 
-<!--
-**LucasMacena09/LucasMacena09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">Hello 👋, I'm Lucas! A 15-year-old programming enthusiast from Brazil.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br> 
+
+- I'm currently studying programming and software development.<br>
+<br>
+
+- I'm looking for opportunities to apply my knowledge and grow as a developer. My dream is to work with emerging technologies like Artificial Intelligence and Machine Learning.<br><br></p>
+
+
+<img align="center" src="https://64.media.tumblr.com/752e98a41362e1c7e51c7a50a78c179c/317f3fca563a82e5-a4/s1280x1920/187cb60ba078ceeefb7d36860495fdde9aec83b9.gifv" alt="Imagem">
+
+<details>
+  <summary>More about me</summary>
+
+ - 📚 At just 15 years old, I've amassed years of programming experience. I started with simple programs in Python and since then have expanded my knowledge to various technologies, including React, TypeScript, Angular, and others. I'm constantly seeking new challenges to hone my skills and stay updated with the latest tech trends.
+
+- 🌍 In addition to programming, I have an interest in languages and reading. I spend my free time studying foreign languages and exploring new worlds through literature. These activities complement my passion for technology, helping me develop a broad perspective and an open mind to creatively and efficiently solve problems.
+
+- ✨ I'm always open to new opportunities and challenges that allow me to grow as a developer and as a person. I believe in the power of lifelong learning and am determined to achieve my career goals while continuing to learn and develop.
+</details>
+
+<br>
+
+## Most used languages:
+
+  <a href="https://github.com/LucasMacena09">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact"/>
+  </a>
+
+
+## Technologies I'm proficient in:
+<div style="display: inline-block;"><br/>
+    <img align="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt"go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
