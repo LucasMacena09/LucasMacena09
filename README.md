@@ -1,10 +1,7 @@
 <h1>Hello, I'm Lucas! 👋</h1>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucasmacenamoreira)
 <p text-align="center">I'm a full-stack developer from Brasil</p>
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucasmacenamoreira)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact)
 
 <h2>My skills</h2>
 
@@ -19,3 +16,5 @@
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact)
