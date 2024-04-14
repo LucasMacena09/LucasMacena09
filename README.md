@@ -12,9 +12,6 @@
 
 - I'm looking for opportunities to apply my knowledge and grow as a developer. My dream is to work with emerging technologies like Artificial Intelligence and Machine Learning.<br><br></p>
 
-
-<img align="center" src="https://64.media.tumblr.com/752e98a41362e1c7e51c7a50a78c179c/317f3fca563a82e5-a4/s1280x1920/187cb60ba078ceeefb7d36860495fdde9aec83b9.gifv" alt="Imagem">
-
 <details>
   <summary>More about me</summary>
 
