@@ -1,8 +1,7 @@
 <h1>Hello, I'm Lucas! 👋</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmacenamoreira/)
-<p text-align="center">I'm a full-stack developer from Brasil</p>
-<p>Welcome to my profile! I'm a programming enthusiast who loves working with Java, Angular, and Go. With a strong background in software development, I'm always seeking new challenges to enhance my skills and contribute to innovative projects. My primary focus lies in building robust and efficient solutions, whether it's crafting backend applications in Java, developing dynamic interfaces with Angular, or harnessing the power and simplicity of Go to create scalable systems. I'm always open to collaborations and continuous learning. Let's code together!</p>
+<p text-align="center">I'm a backend developer who loves Java and also uses Go. I enjoy creating efficient and scalable solutions, leveraging the best practices in software development. In my repository, you'll find projects that showcase my commitment to quality and innovation. I'm always seeking new challenges and opportunities to collaborate on interesting projects. Let's code together and build something amazing!</p>
 
 <h2>My skills</h2>
 
