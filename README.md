@@ -15,33 +15,17 @@
 <h2>🔧 Tech Stack</h2>
 
 <h3>Main Stack</h3>
-<p>
-  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://springdoc.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  </a>
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
-  </a>
-  <a href="https://go.dev/doc/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  </a>
-</p>
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://springdoc.org/)
+[![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
 
 <h3>Databases</h3>
-<p>
-  <a href="https://docs.oracle.com/en/database/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
-  </a>
-  <a href="https://www.postgresql.org/docs/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-</p>
+
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://docs.oracle.com/en/database/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 
 ---
 
