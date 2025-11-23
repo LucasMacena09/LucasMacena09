@@ -10,8 +10,6 @@
   I'm a passionate backend developer specializing in <strong>Go</strong> and <strong>Java</strong>. I love designing scalable, efficient systems and following best practices in software development. My repositories showcase my dedication to quality and innovation. Always eager to take on new challenges, I enjoy collaborating on exciting projects. Let's build something amazing together! 🚀
 </p>
 
----
-
 <h2>🔧 Tech Stack</h2>
 
 <h3>Main Stack</h3>
@@ -26,11 +24,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 
----
-
 <h2>📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmacena09&layout=compact" alt="Top Languages"/>
 </p>
-
-https://lucasmacena09.github.io/projetos-informatica-internet/biblioteca_lucasMacena/index.html
