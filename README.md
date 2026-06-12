@@ -1,4 +1,10 @@
-<h1>Hello, I'm Lucas! 👋</h1>
+<h1>Hi, I'm Lucas Macena 👋</h1>
+
+**`Backend Developer`**
+
+<p>
+  I'm a Back-end Developer focused on building scalable, high-performance, and resilient systems. Specializing in Java (Spring Boot) and Go, I combine clean code principles with modern architectural patterns to solve complex problems. Experienced in relational databases like PostgreSQL and MySQL, I’m always driven by technical excellence and collaboration. Let’s connect and build something impactful!
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/lucasmacenamoreira/" style="text-decoration: none;">
@@ -6,20 +12,110 @@
   </a>
 </p>
 
+---
+
+### 🛠️ Tech Stack
+
+<img 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+  align="left"
+  alt="Spring"
+  title="Spring"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+  align="left"
+  alt="Golang"
+  title="Golang"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+/>
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+  align="left"
+  alt="PostgreSQL"
+  title="PostgreSQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Statistics
+
 <p>
-  I'm a passionate backend developer specializing in <strong>Go</strong> and <strong>Java</strong>. I love designing scalable, efficient systems and following best practices in software development. My repositories showcase my dedication to quality and innovation. Always eager to take on new challenges, I enjoy collaborating on exciting projects. Let's build something amazing together! 🚀
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasMacena09&show_icons=true&theme=holi&include_all_commits=true" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMacena09&theme=holi&layout=compact&custom_title=Technologies&hide=typescript,css,html" 
+  />
 </p>
 
-<h2>🔧 Tech Stack</h2>
+<br clear="both"/>
+<br/>
 
-<h3>Main Stack</h3>
+### 📌 Featured Projects
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://springdoc.org/)
-[![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/doc/)
+#### ⚖️ NucleoJR – Restorative Justice Management API
+> 🔒 *Note: This repository is private as it is part of an official system being implemented for the São Paulo Justice system.*
+* **Tech Stack:** Java, Spring Boot, PostgreSQL.
+* **Key Features & Architecture:**
+  * **Robust Backend:** Developed scalable and secure RESTful APIs leveraging the power of Spring Boot and Java backend architecture.
+  * **Secure Authentication:** Implemented secure user authentication and authorization protocols to protect sensitive legal data.
+  * **Data Modeling:** Designed and optimized a relational database schema using PostgreSQL, ensuring efficient query performance and data integrity.
+  * **Modern Deployments:** Configured and integrated cloud environments utilizing Supabase for managed database services and Railway for reliable application hosting.
 
-<h3>Databases</h3>
 
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+
